@@ -1,0 +1,24 @@
+.block-title1 {
+	font-family: 'Poppins', sans-serif;
+}
+.block-paragraph1 {
+	font-family: 'Poppins', sans-serif;
+}
+.block-h2 {
+	font-family: 'Poppins', sans-serif;
+}
+.block-h3 {
+	font-family: 'Poppins', sans-serif;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Bold.eot');
+    src: url('../fonts/Poppins-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Poppins-Bold.woff2') format('woff2'),
+        url('../fonts/Poppins-Bold.woff') format('woff'),
+        url('../fonts/Poppins-Bold.svg#Poppins-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
