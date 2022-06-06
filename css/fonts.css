@@ -10,6 +10,12 @@
 .block-h3 {
 	font-family: 'Poppins', sans-serif;
 }
+.block-down-h3 {
+    font-family: "Arial GEO Bold", sans-serif;
+}
+.contaner-block-paragraph {
+    font-family: "ALKDots", sans-serif;
+}
 
 @font-face {
     font-family: 'Poppins';
@@ -21,4 +27,13 @@
     font-weight: bold;
     font-style: normal;
     font-display: swap;
+}
+@font-face {
+    font-family: 'ALKDots';
+    src: url('../fonts/alkdots-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/alkdots-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/alkdots-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/alkdots-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/alkdots-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/alkdots-webfont.svg#alkdotsregular') format('svg'); /* Legacy iOS */
 }
